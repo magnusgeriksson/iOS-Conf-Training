@@ -14,7 +14,7 @@ target 'Find_my_Data' do
   # pod 'FFmpeg', '~> 2.8.3'
   
   pod 'Firebase', '~> 7.11.0' # "6.23.0"
-  pod 'libpng', '~> 1.6'
+  #pod 'libpng', '~> 1.6'
 
   # Error in M1-Mac
   # pod 'TwitterKit', '~> 3.4.2'
